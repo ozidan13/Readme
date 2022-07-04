@@ -12,7 +12,7 @@
 
 <h1 align="center">About</h1>
 :wave: Hi there, I'm Osama Zinhom, a Front-End Developer - UI/UX Designer. I enjoy writing about technical things
-## Osama Zinhom, 21 years old, Studies MIS
+# Osama Zinhom, 21 years old, Studies MIS
 ### Occupation: Front-End Developer - & Graphic & UI/UX Design.
 ### Studies Management Information Systems (MIS) and holds a Master`s Degree in Information Technology Support
 ### Overview: 
