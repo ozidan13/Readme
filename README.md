@@ -40,9 +40,9 @@ I have powerful computer science knowledge and am eager to learn more concepts a
 
 * 🔭 I’m currently working on**: [Abuzeit](https://github.com/learning-lantern](https://abuzeit.com/).
 * 🔭 Web Development":["HTML", "HTML5","CSS", "CSS3", "JAVASCRIPT", "Reactjs", "Nextjs
-- 👨‍ 2 years Experience & Junior React Dev
+- 👨‍ 3 years Experience 
 * 🔭 Graphic Design ":["Fully Brands Awareness Designs","Social Media Designs",  "Tools : Photoshop - Illustrator - InDesign
-- 👨‍ 4 Years Experience
+- 👨‍ +5 Years Experience
 * 🔭 UI-UX Design ":["Web & App UI Design & UX Evaluation", "Tools : Figma & adobe XD
 - 👨‍ 1 years Experience
 * 🔭 All of my projects (Web) are available at**: [My GitHub](https://github.com/ozidan13?tab=repositories).
