@@ -13,7 +13,7 @@
 <h1 align="center">About</h1>
 :wave: Hi there, I'm Osama Zinhom, a Front-End Developer - UI/UX Designer. I enjoy writing about technical things
 
-# Osama Zinhom, 21 years old, Studies MIS
+# Osama Zinhom, Studies MIS
 
 ### Occupation: Front-End Developer - & Graphic & UI/UX Design.
 ### Studies Management Information Systems (MIS) and holds a Master`s Degree in Information Technology Support
@@ -27,13 +27,17 @@
 - HTML, HTML5, CSS, CSS3, JavaScript, Reactjs, Nodejs, jQuery.
 - Algorithm, Data structures, Design Patterns, and other Programing Foundations
 - Working in UI Ux Design.
-* Worked with companies and institutions such as:
+* Worked at :
+- Salem Capital 
 - Hamburg : (Abuzeit)
 - Planning Solutions - Elixir - Mlamih Fashion
 - Platforms : Upwork - PPH - Freelancer
 * Portfolio and my previous work: 
-- [My GitHub](https://github.com/ozidan13?tab=repositories).
-- [My bEHANCE](https://www.behance.net/O_Zidan).
+* Graphic Design : +4 years 
+* FrontEnd & UI/UX Design : 3 Years
+- [ GitHub](https://github.com/ozidan13?tab=repositories).
+- [ Behance](https://www.behance.net/O_Zidan).
+- [ LinkedIn ](https://www.linkedin.com/in/ozidan/).
 
 I have powerful computer science knowledge and am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
 
