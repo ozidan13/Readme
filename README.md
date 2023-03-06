@@ -11,30 +11,19 @@
 </div>
 
 <h1 align="center">About</h1>
-:wave: Hi there, I'm Osama Zinhom, a Front-End Developer - UI/UX Designer. I enjoy writing about technical things
+:wave: Hi there, I'm Osama Zinhom, Senior Front-End Developer - UI/UX Designer. I enjoy writing about technical things
 
-# Osama Zinhom, Studies MIS
+# Osama Zinhom, Studies Senior Front-End Developer - UI/UX Designer
 
-### Occupation: Front-End Developer - & Graphic & UI/UX Design.
-### Studies Management Information Systems (MIS) and holds a Master`s Degree in Information Technology Support
-### Overview: 
-* Professional design on programs:
-- Adobe Photoshop cc
-- Adobe Illustrator cc
-- Adobe Indesgin cc
-- Adobe XD
-* Good Knowledge and professional with :
-- HTML, HTML5, CSS, CSS3, JavaScript, Reactjs, Nodejs, jQuery.
-- Algorithm, Data structures, Design Patterns, and other Programing Foundations
-- Working in UI Ux Design.
-* Worked at :
-- Salem Capital 
-- Hamburg : (Abuzeit)
-- Planning Solutions - Elixir - Mlamih Fashion
-- Platforms : Upwork - PPH - Freelancer
-* Portfolio and my previous work: 
-* Graphic Design : +4 years 
-* FrontEnd & UI/UX Design : 3 Years
+My primary focus is on creating intuitive, user-friendly applications that are both easy to use and aesthetically pleasing. I'm always looking to stay ahead of the curve when it comes to developing web applications and pushing the limits of the technologies I'm working with.
+
+I'm passionate about creating software that can improve lives and make the world a better place. In my free time, I enjoy learning new technologies, reading tech blogs, and participating in the development of open source projects.
+
+🟢 Education :
+✅ Studies MIS & IT in SAMS
+✅ Bachelor in information Technology and business
+✅ Professional Certification in IT Support specialization from Google
+
 - [ GitHub](https://github.com/ozidan13?tab=repositories).
 - [ Behance](https://www.behance.net/O_Zidan).
 - [ LinkedIn ](https://www.linkedin.com/in/ozidan/).
